@@ -1,4 +1,4 @@
-# CP_crystal_structures
+# Cyclic peptide crystal structures
 
 This repository contains the crystal structure data of 52 cyclic peptide structures as reported in "A backbone-dependent rotamer library with high (φ,ψ) coverage using metadynamics simulations"
 
